@@ -16,7 +16,7 @@ eliminando o preenchimento manual conhecimento por conhecimento.
 
 ## Tecnologias
 
-- Python 3.10+
+- Python 3.11.9 ou inferior
 - Selenium + undetected-chromedriver
 - openpyxl
 
